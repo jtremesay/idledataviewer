@@ -1,0 +1,17 @@
+##############################################################################
+# Language
+##############################################################################
+# Ignore python cache directory
+src/idledataviewer/__pycache__/
+
+# Ignore python egg files info
+/src/idledataviewer.egg-info/
+
+# Ignore virtual env
+/.venv/
+
+##############################################################################
+# IDE
+##############################################################################
+# Ignore VS Code workspace dir
+/.vscode/
