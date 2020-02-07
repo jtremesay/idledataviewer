@@ -12,7 +12,7 @@
                 let player_data = players[player_name];
 
                 var level_data = {
-                    legendName: "level " + player_name,
+                    name: "level " + player_name,
                     showInLegend: true, 
                     type: "line",
                     legendName: "level " + player_name,
